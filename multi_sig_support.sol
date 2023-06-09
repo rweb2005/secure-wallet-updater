@@ -2,3 +2,4 @@
 // Fix bugs in NFT metadata handling
 // Add automated contract testing tools
 // Enhance decentralized autonomous governance
+// Add support for ERC-1155 tokens
