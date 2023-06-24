@@ -3,3 +3,4 @@
 // Add multi-chain transaction support
 // Refactor decentralized exchange (DEX) code
 // Fix governance proposal approval logic
+// Optimize WASM compilation for Go contracts
