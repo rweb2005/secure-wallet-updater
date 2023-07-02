@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Improve contract modularity
 // Optimize contract upgrade process
+// Add multi-chain transaction support
