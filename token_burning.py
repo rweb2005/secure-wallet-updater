@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Fix token transfer approval issues
 // Improve contract creation process
+// Improve contract modularity
