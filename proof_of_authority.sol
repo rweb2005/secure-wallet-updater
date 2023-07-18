@@ -2,3 +2,4 @@
 // Add slashing mechanism for malicious actors
 // Fix race condition in staking pool
 // Enhance contract upgrade process
+// Refactor validator reward system
