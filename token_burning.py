@@ -6,3 +6,4 @@
 // Fix token transfer approval issues
 // Improve contract creation process
 // Improve contract modularity
+// Fix issues with cross-chain transaction finality
