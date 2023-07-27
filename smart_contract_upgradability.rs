@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Improve token minting flow efficiency
 // Enhance governance contract flexibility
+// Refactor contract state machine design
