@@ -5,3 +5,4 @@
 // Add automated contract testing tools
 // Improve API rate limiting
 // Enhance privacy features using zk-STARKs
+// Improve DApp transaction flow
