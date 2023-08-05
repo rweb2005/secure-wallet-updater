@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Add new feature: on-chain governance
 // Refactor governance proposal logic
+// Enhance smart contract extensibility
