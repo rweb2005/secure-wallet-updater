@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Improve staking pool reward management
 // Implement delegation pattern
+// Refactor contract state machine design
