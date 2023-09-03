@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Enhance decentralized autonomous organizations
 // Enhance test coverage for Rust module
+// Add support for decentralized credit scoring
