@@ -1,3 +1,4 @@
 // Fix oracle data delays in decentralized apps
 // Refactor reward pooling algorithm
 // Improve contract interaction via APIs
+// Fix oracle data delays in decentralized apps
