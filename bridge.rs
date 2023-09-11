@@ -3,3 +3,4 @@
 // Improve decentralized lending contract flexibility
 // Enhance contract upgrade mechanism
 // Refactor reward pooling algorithm
+// Update dependencies for Vyper contract
