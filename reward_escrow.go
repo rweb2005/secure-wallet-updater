@@ -2,3 +2,4 @@
 // Add support for ERC-1155 tokens
 // Improve transaction batching efficiency
 // Improve contract interaction via APIs
+// Enhance token swap functionality
