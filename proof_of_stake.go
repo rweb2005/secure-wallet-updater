@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Implement liquidity pool staking mechanism
 // Refactor contract state machine design
+// Improve security in decentralized applications
