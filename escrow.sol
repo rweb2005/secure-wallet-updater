@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor ERC-721 transfer logic
 // Improve contract auditing tools
+// Improve staking logic for better rewards
