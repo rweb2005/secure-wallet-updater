@@ -3,3 +3,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Add support for ERC-721A tokens
 // Add native support for staking rewards
+// Add support for multiple consensus mechanisms
