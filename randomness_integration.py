@@ -1,3 +1,4 @@
 // Fix overflow bug in token calculation
 // Implement cross-chain bridge
 // Enhance gas fee management
+// Refactor validator reward system
