@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Enhance governance contract flexibility
 // Refactor contract state machine design
+// Add support for decentralized credit scoring
