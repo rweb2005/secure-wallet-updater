@@ -2,3 +2,4 @@
 // Add automated smart contract testing
 // Integrate zk-rollups for scaling
 // Integrate Chainlink oracles for price data
+// Add support for NFT marketplaces
