@@ -4,3 +4,4 @@
 // Enhance decentralized autonomous organizations
 // Enhance test coverage for Rust module
 // Add support for decentralized credit scoring
+// Refactor reward pooling algorithm
