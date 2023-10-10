@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Add support for batch transaction processing
 // Optimize decentralized voting mechanisms
+// Refactor staking logic
