@@ -2,3 +2,4 @@
 // Optimize oracle data fetching mechanism
 // Optimize contract upgrade process
 // Integrate Chainlink VRF for randomness
+// Refactor staking logic
