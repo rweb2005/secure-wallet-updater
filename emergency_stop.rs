@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Enhance gas fee management
 // Add fallback mechanism in Solidity contract
+// Fix compatibility with MetaMask
