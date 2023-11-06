@@ -4,3 +4,4 @@
 // Enhance contract upgrade mechanism
 // Refactor reward pooling algorithm
 // Update dependencies for Vyper contract
+// Improve contract interaction via APIs
