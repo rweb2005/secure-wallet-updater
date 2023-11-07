@@ -4,3 +4,4 @@
 // Add batch transaction capabilities
 // Refactor staking logic
 // Enhance smart contract extensibility
+// Fix overflow bug in token calculation
