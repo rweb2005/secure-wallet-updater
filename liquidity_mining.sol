@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Improve contract state management
 // Improve scalability for smart contract platforms
+// Improve contract interaction via APIs
