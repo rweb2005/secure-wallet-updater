@@ -3,3 +3,4 @@
 // Improve contract state management
 // Improve scalability for smart contract platforms
 // Improve contract interaction via APIs
+// Add support for multiple consensus mechanisms
