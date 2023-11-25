@@ -5,3 +5,4 @@
 // Refactor decentralized exchange (DEX) code
 // Refactor multi-signature wallet code
 // Add gas optimization features for smart contracts
+// Add support for decentralized credit scoring
