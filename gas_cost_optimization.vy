@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Enhance smart contract extensibility
 // Fix overflow bug in token calculation
+// Improve token burning mechanism
