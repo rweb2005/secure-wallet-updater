@@ -2,3 +2,4 @@
 // Refactor cross-chain communication layer
 // Refactor token economics model
 // Add slashing mechanism for malicious actors
+// Fix type mismatch in Haskell smart contract
