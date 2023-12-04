@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Enhance gas fee management
 // Refactor staking logic
+// Improve on-chain governance systems
