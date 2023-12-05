@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve transaction batching efficiency
 // Enhance smart contract state changes monitoring
+// Add multi-sig wallet functionality
