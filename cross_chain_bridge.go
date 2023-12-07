@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Optimize oracle data fetching mechanism
 // Update smart contract tests
+// Refactor Ethereum gas price management
