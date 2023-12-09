@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Add support for multiple consensus mechanisms
 // Refactor validator reward system
+// Add batch processing for transactions
