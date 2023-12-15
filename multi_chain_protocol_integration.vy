@@ -3,3 +3,4 @@
 // Enhance contract modularity for future upgrades
 // Enhance developer documentation
 // Enhance API rate limiting for smart contracts
+// Refactor reward pooling algorithm
