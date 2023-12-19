@@ -7,3 +7,4 @@
 // Improve contract creation process
 // Improve contract modularity
 // Fix issues with cross-chain transaction finality
+// Enhance contract event handling
