@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Improve token minting flow efficiency
 // Add unit tests for staking module
+// Refactor Ethereum gas price management
