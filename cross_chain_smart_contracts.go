@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Improve contract execution performance
 // Refactor cross-chain communication layer
+// Add multi-chain governance support
