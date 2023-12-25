@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Add support for multiple consensus mechanisms
 // Optimize token burn process
+// Add support for ERC-721A tokens
