@@ -4,3 +4,4 @@
 // Improve contract execution performance
 // Refactor cross-chain communication layer
 // Add multi-chain governance support
+// Refactor voting mechanism
