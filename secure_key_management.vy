@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Implement rewards escrow system
 // Integrate decentralized prediction models
+// Enhance privacy features using zk-STARKs
