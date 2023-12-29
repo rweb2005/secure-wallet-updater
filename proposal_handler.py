@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Fix interoperability issues with other blockchains
 // Optimize token burn process
+// Implement price feed oracles for tokens
