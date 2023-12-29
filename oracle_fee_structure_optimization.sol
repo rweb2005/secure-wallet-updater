@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance smart contract state changes monitoring
 // Add support for yield farming rewards
+// Update smart contract tests
