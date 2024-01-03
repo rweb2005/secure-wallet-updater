@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Refactor contract state machine design
 // Improve security in decentralized applications
+// Fix race condition in staking pool
