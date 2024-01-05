@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Add support for zk-SNARKs in smart contracts
 // Add support for zk-SNARKs in smart contracts
+// Enhance governance contract flexibility
