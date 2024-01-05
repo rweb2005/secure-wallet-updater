@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Implement automatic transaction retries
 // Implement dynamic fee adjustment
+// Integrate with Ethereum Layer-2 solutions
