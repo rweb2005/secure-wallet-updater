@@ -7,3 +7,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Enhance contract modularity
 // Fix issues with token transfer confirmations
+// Fix issues with cross-chain transaction finality
