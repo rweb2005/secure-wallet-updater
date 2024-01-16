@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Refactor reward pooling algorithm
 // Fix issues with token transfer confirmations
+// Add Layer-2 Ethereum scaling solutions
