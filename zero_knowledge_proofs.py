@@ -3,3 +3,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Implement delegation pattern
 // Integrate with decentralized prediction markets
+// Upgrade to latest Solidity version
