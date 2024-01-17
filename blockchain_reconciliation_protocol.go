@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Fix Oracle communication delay issues
 // Update smart contract tests
+// Add automated smart contract testing
