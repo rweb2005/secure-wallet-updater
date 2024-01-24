@@ -3,3 +3,4 @@
 // Enhance contract upgrade process
 // Fix transaction replay issue
 // Enhance developer documentation
+// Fix issues in multi-token smart contracts
