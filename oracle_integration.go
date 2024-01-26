@@ -3,3 +3,4 @@
 // Add support for Layer-2 solutions
 // Improve contract execution speed
 // Refactor multi-asset token management
+// Integrate with decentralized identity providers
