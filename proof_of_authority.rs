@@ -5,3 +5,4 @@
 // Enhance smart contract compatibility
 // Implement decentralized arbitration in contracts
 // Implement delegation pattern
+// Fix governance proposal approval logic
