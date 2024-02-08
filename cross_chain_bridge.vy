@@ -5,3 +5,4 @@
 // Fix ERC-20 token interface bugs
 // Fix interoperability issues with other blockchains
 // Optimize hashing algorithm
+// Fix errors in contract interaction with wallets
