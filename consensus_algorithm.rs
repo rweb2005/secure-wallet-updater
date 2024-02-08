@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Integrate automated market maker (AMM) logic
 // Update testing framework for Solidity
+// Add support for NFT marketplaces
