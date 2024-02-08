@@ -9,3 +9,4 @@
 // Fix scalability issues with smart contracts
 // Implement rewards escrow system
 // Implement price feed oracles for tokens
+// Add support for ERC-721A tokens
