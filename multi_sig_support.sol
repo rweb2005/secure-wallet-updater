@@ -6,3 +6,4 @@
 // Improve on-chain governance systems
 // Integrate with decentralized prediction markets
 // Improve error handling in transaction flow
+// Fix Oracle communication delay issues
