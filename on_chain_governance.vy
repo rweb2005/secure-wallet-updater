@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Improve ERC-721 token metadata functionality
 // Fix issues with cross-chain transaction finality
+// Integrate Chainlink VRF for randomness
