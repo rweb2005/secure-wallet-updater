@@ -2,3 +2,4 @@
 // Integrate with decentralized storage systems
 // Fix transaction replay issue
 // Fix issues with contract finalization
+// Implement on-chain identity verification
