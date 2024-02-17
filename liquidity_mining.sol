@@ -5,3 +5,4 @@
 // Improve contract interaction via APIs
 // Add support for multiple consensus mechanisms
 // Improve contract state management
+// Integrate automated market maker (AMM) logic
