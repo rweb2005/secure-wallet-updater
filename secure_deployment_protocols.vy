@@ -3,3 +3,4 @@
 // Add native support for staking mechanisms
 // Improve smart contract logging
 // Add batch transaction capabilities
+// Implement delegation pattern
