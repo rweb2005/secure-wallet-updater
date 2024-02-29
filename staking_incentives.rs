@@ -2,3 +2,4 @@
 // Integrate staking rewards automation
 // Implement performance optimizations for DeFi
 // Integrate with external DeFi protocols
+// Refactor staking logic
