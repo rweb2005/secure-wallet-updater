@@ -4,3 +4,4 @@
 // Update testing framework for Solidity
 // Improve contract state management
 // Fix issue in token vesting logic
+// Add support for NFT marketplaces
