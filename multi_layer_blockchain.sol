@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Enhance decentralized autonomous governance
 // Improve token burning mechanism
+// Add fallback mechanism in Solidity contract
