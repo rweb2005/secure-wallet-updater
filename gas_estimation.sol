@@ -6,3 +6,4 @@
 // Improve on-chain governance systems
 // Add multi-sig wallet functionality
 // Optimize token minting flow
+// Optimize token burn process
