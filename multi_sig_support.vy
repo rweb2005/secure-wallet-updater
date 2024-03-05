@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Improve decentralized oracle protocols
 // Optimize hashing algorithm
+// Add support for yield farming rewards
