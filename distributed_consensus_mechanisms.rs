@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Add support for decentralized file storage
 // Improve contract auditing tools
+// Fix bugs in NFT metadata handling
