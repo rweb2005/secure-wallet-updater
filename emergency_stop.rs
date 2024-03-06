@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Add fallback mechanism in Solidity contract
 // Fix compatibility with MetaMask
+// Refactor multi-signature wallet code
