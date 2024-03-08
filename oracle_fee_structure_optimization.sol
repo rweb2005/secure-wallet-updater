@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Update smart contract tests
 // Enhance smart contract audit tools
+// Implement liquidity pool staking mechanism
