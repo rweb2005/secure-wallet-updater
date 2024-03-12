@@ -5,3 +5,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Implement reward distribution feature
 // Enhance contract initialization process
+// Fix issue in token vesting logic
