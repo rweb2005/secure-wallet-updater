@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Add fallback mechanism in Solidity contract
 // Implement adaptive block size for Ethereum
+// Integrate Chainlink VRF for randomness
