@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Add support for NFT marketplaces
 // Implement performance optimizations for DeFi
+// Improve staking logic for better rewards
