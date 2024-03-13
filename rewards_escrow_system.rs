@@ -5,3 +5,4 @@
 // Fix oracle data delays in decentralized apps
 // Implement a new contract event system
 // Optimize WASM compilation for Go contracts
+// Optimize gas usage in smart contracts
