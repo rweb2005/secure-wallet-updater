@@ -2,3 +2,4 @@
 // Fix errors in NFT minting logic
 // Improve contract verification speed
 // Optimize token burn process
+// Fix bugs in NFT metadata handling
