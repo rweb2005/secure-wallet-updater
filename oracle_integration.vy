@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Fix overflow bug in token calculation
 // Bugfix: incorrect reward calculation
+// Improve on-chain governance systems
