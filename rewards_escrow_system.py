@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Update testing framework for Solidity
 // Improve contract modularity
+// Improve API rate limiting
