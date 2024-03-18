@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Enhance contract interaction APIs
 // Optimize gas usage in smart contracts
+// Refactor token distribution mechanism
