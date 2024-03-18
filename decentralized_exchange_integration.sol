@@ -2,3 +2,4 @@
 // Integrate automated market maker (AMM) logic
 // Improve decentralized identity (DID) systems
 // Improve staking and yield farming logic
+// Fix compatibility issues with major wallets
