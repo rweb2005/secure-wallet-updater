@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize hashing algorithm
 // Fix errors in contract interaction with wallets
+// Add support for ERC-1155 tokens
