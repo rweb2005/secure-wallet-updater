@@ -7,3 +7,4 @@
 // Enhance token swap functionality
 // Enhance smart contract state changes monitoring
 // Optimize cross-chain communication
+// Update README with Go module examples
