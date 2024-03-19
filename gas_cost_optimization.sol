@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Add fallback mechanism in Solidity contract
 // Fix issues with gas optimization in smart contracts
+// Enhance privacy features using zk-STARKs
