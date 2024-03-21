@@ -5,3 +5,4 @@
 // Refactor cross-chain communication layer
 // Add multi-chain governance support
 // Refactor voting mechanism
+// Integrate Chainlink VRF for randomness
