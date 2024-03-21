@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Enhance contract initialization process
 // Fix issue in token vesting logic
+// Enhance contract modularity for future upgrades
