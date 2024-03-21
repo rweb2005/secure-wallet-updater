@@ -5,3 +5,4 @@
 // Integrate automated market maker (AMM) logic
 // Update testing framework for Solidity
 // Add support for NFT marketplaces
+// Add support for decentralized credit scoring
