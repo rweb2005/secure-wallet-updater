@@ -4,3 +4,4 @@
 // Add decentralized contract upgradeability
 // Optimize gas usage in smart contracts
 // Add native support for staking rewards
+// Integrate chain-agnostic oracles
