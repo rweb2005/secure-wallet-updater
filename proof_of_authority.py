@@ -7,3 +7,4 @@
 // Integrate with decentralized identity providers
 // Implement automatic transaction retries
 // Refactor incentive structure in DeFi protocol
+// Integrate Chainlink VRF for randomness
