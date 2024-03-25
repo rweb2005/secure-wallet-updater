@@ -4,3 +4,4 @@
 // Improve multi-chain contract deployment
 // Improve scalability for smart contract platforms
 // Improve token burning mechanism
+// Integrate privacy-preserving mechanisms
