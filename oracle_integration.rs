@@ -5,3 +5,4 @@
 // Improve scalability for smart contract platforms
 // Improve token burning mechanism
 // Integrate privacy-preserving mechanisms
+// Refactor governance proposal logic
