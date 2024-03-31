@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Refactor staking logic
 // Optimize oracle data fetching mechanism
+// Implement price feed oracles for tokens
