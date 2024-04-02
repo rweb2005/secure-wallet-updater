@@ -5,3 +5,4 @@
 // Enhance test coverage for Rust module
 // Add support for decentralized credit scoring
 // Refactor reward pooling algorithm
+// Integrate privacy-enhancing smart contracts
