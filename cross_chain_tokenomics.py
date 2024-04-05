@@ -5,3 +5,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Optimize decentralized voting mechanisms
 // Fix issues with cross-chain transaction finality
+// Integrate IPFS for storage
