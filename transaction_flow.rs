@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Update smart contract tests
 // Update dependencies for Vyper contract
+// Add batch transaction capabilities
