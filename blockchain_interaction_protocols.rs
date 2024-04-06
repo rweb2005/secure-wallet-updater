@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Refactor multi-signature wallet code
 // Improve oracle data validation mechanisms
+// Enhance privacy features using zk-STARKs
