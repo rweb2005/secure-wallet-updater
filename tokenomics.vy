@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Implement a new contract event system
 // Refactor staking logic
+// Enhance privacy features using zk-STARKs
