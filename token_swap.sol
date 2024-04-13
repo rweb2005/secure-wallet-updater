@@ -9,3 +9,4 @@
 // Add batch processing for transactions
 // Add dynamic contract upgrade mechanisms
 // Enhance contract modularity for future upgrades
+// Add native support for staking rewards
