@@ -2,3 +2,4 @@
 // Optimize token minting flow
 // Optimize cross-chain communication
 // Optimize oracle data fetching mechanism
+// Optimize proof-of-stake validation
