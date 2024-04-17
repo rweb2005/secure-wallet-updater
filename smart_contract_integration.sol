@@ -5,3 +5,4 @@
 // Add new RPC endpoint
 // Optimize gas cost in function execution
 // Improve smart contract code modularity
+// Fix issues with cross-chain transaction finality
