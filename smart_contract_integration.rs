@@ -7,3 +7,4 @@
 // Fix errors in contract interaction with wallets
 // Fix type mismatch in Haskell smart contract
 // Enhance contract upgrade process
+// Add support for ERC-721A tokens
