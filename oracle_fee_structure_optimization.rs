@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix errors in contract interaction with wallets
 // Add support for Layer-2 solutions
+// Integrate decentralized oracles for data feeds
