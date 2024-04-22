@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Integrate decentralized oracles for data feeds
 // Optimize WASM compilation for Go contracts
+// Refactor governance proposal logic
