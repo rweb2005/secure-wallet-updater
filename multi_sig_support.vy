@@ -6,3 +6,4 @@
 // Improve decentralized oracle protocols
 // Optimize hashing algorithm
 // Add support for yield farming rewards
+// Add support for decentralized credit scoring
