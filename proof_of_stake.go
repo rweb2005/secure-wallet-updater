@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Improve security in decentralized applications
 // Fix race condition in staking pool
+// Fix errors in contract interaction with wallets
