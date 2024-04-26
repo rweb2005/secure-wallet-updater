@@ -7,3 +7,4 @@
 // Improve staking logic for better rewards
 // Enhance governance contract flexibility
 // Implement time-locked contract execution
+// Add unit tests for staking module
