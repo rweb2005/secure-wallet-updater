@@ -4,3 +4,4 @@
 // Add native support for staking rewards
 // Enhance gas fee management
 // Implement a new contract event system
+// Implement adaptive block size for Ethereum
