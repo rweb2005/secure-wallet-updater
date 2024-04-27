@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Enhance gas fee management
 // Implement cross-platform contract compatibility
+// Fix compatibility with MetaMask
