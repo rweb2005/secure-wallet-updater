@@ -8,3 +8,4 @@
 // Update smart contract tests
 // Optimize token minting flow
 // Add support for yield farming rewards
+// Add support for ERC-721A tokens
