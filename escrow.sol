@@ -8,3 +8,4 @@
 // Enhance governance contract flexibility
 // Implement time-locked contract execution
 // Add unit tests for staking module
+// Integrate with decentralized prediction markets
