@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Enhance privacy features using zk-STARKs
 // Refactor reward pooling algorithm
+// Fix transaction replay issue
