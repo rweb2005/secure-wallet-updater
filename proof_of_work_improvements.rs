@@ -2,3 +2,4 @@
 // Improve transaction batching efficiency
 // Improve cross-chain asset management
 // Integrate with decentralized storage systems
+// Add non-fungible token (NFT) support
