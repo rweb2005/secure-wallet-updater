@@ -7,3 +7,4 @@
 // Optimize hashing algorithm
 // Add support for yield farming rewards
 // Add support for decentralized credit scoring
+// Fix overflow bug in token calculation
