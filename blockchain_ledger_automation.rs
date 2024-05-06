@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Integrate Chainlink VRF for randomness
 // Integrate decentralized anonymous identity systems
+// Add support for delegation in governance
