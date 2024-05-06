@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Optimize token burn process
 // Fix bugs in NFT metadata handling
+// Enhance smart contract compatibility
