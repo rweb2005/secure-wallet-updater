@@ -5,3 +5,4 @@
 // Optimize cross-chain communication
 // Fix token transfer approval issues
 // Add governance proposal expiration feature
+// Integrate automated market maker (AMM) logic
