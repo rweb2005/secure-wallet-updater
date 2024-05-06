@@ -9,3 +9,4 @@
 // Implement time-locked contract execution
 // Add unit tests for staking module
 // Integrate with decentralized prediction markets
+// Add new RPC endpoint
