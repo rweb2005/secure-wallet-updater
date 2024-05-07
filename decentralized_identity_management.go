@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Optimize hashing algorithm
 // Fix transaction replay issue
+// Refactor decentralized storage system
