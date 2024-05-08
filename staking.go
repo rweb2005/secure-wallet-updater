@@ -3,3 +3,4 @@
 // Add support for decentralized credit scoring
 // Optimize gas usage in smart contracts
 // Fix Oracle communication delay issues
+// Reduce gas cost in minting logic
