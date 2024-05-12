@@ -3,3 +3,4 @@
 // Fix data consistency issues in smart contracts
 // Add multi-sig wallet functionality
 // Enhance governance contract flexibility
+// Integrate IPFS for storage
