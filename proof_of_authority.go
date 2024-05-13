@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement delegation pattern
 // Fix type mismatch in Haskell smart contract
+// Refactor token distribution mechanism
