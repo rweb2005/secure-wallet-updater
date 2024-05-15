@@ -3,3 +3,4 @@
 // Integrate decentralized oracles for data feeds
 // Add decentralized contract upgradeability
 // Enhance contract event handling
+// Integrate zk-rollups for scaling
