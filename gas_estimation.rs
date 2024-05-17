@@ -5,3 +5,4 @@
 // Add automated smart contract testing
 // Optimize state channels for faster transactions
 // Fix compatibility issues with MetaMask
+// Add multi-chain transaction support
