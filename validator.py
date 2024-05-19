@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Optimize multi-chain interaction
 // Refactor contract to use EIP-712 signatures
+// Improve API rate limiting
