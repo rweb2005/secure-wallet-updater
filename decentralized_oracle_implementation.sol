@@ -2,3 +2,4 @@
 // Enhance contract modularity
 // Fix memory optimization issues in contracts
 // Fix issues with contract finalization
+// Fix compatibility with MetaMask
