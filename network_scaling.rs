@@ -3,3 +3,4 @@
 // Enhance API rate limiting for smart contracts
 // Add support for cross-chain bridges
 // Fix edge case in unstaking logic
+// Improve staking pool reward management
