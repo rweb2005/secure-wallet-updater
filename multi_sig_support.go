@@ -12,3 +12,4 @@
 // Add support for ERC-721A tokens
 // Implement contract function batching
 // Refactor contract event emission
+// Refactor token economics model
