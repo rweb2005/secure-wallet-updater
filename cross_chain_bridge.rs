@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Add gas optimization features for smart contracts
 // Fix vulnerability in decentralized finance protocols
+// Integrate zk-rollups for scaling
