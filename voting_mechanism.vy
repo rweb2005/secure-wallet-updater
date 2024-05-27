@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Add governance proposal expiration feature
 // Enhance privacy features using zk-STARKs
+// Fix issues in token transfer logic
