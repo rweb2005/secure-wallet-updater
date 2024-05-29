@@ -4,3 +4,4 @@
 // Refactor ERC-721 transfer logic
 // Refactor incentive structure in DeFi protocol
 // Implement price feed oracles for tokens
+// Implement decentralized arbitration in contracts
