@@ -2,3 +2,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve gas estimation for transactions
 // Implement contract function batching
+// Improve gas estimation for transactions
