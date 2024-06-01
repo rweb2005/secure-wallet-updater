@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Bugfix: incorrect reward calculation
 // Fix errors in contract interaction with wallets
+// Integrate Chainlink oracles for price data
