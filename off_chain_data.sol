@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve contract execution performance
 // Optimize multi-chain interaction
+// Refactor decentralized storage system
