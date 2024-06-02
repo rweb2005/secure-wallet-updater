@@ -9,3 +9,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance governance contract flexibility
 // Fix issues with contract finalization
+// Add support for Layer-2 solutions
