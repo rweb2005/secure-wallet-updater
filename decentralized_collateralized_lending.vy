@@ -2,3 +2,4 @@
 // Add support for multi-signature wallet contracts
 // Fix issues in multi-token smart contracts
 // Fix vulnerabilities in staking contracts
+// Refactor storage layout for better efficiency
