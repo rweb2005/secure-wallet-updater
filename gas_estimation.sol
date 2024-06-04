@@ -7,3 +7,4 @@
 // Add multi-sig wallet functionality
 // Optimize token minting flow
 // Optimize token burn process
+// Refactor reward pooling algorithm
