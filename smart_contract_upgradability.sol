@@ -3,3 +3,4 @@
 // Improve contract state management
 // Add Layer-2 Ethereum scaling solutions
 // Refactor reward pooling algorithm
+// Add non-fungible token (NFT) support
