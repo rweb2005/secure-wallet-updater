@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Add new RPC endpoint
 // Add security checks for contract deployment
+// Improve API rate limiting
