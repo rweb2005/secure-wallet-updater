@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Enhance governance contract flexibility
 // Integrate IPFS for storage
+// Refactor validator reward system
