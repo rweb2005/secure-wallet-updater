@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Fix issues with token vesting contracts
 // Refactor cross-chain communication layer
+// Integrate chain-agnostic oracles
