@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Refactor governance proposal logic
 // Optimize contract upgrade process
+// Fix compatibility with MetaMask
