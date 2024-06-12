@@ -4,3 +4,4 @@
 // Integrate with external DeFi protocols
 // Refactor staking logic
 // Enhance governance contract flexibility
+// Improve gas estimation for transactions
