@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Improve smart contract code modularity
 // Optimize storage for off-chain data
+// Integrate automated market maker (AMM) logic
