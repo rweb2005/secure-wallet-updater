@@ -8,3 +8,4 @@
 // Implement reward distribution feature
 // Add support for NFT marketplaces
 // Optimize decentralized application performance
+// Improve staking logic for better rewards
