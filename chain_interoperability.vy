@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Refactor multi-asset token management
 // Add unit tests for staking module
+// Fix overflow bug in token calculation
