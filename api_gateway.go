@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Refactor voting mechanism
 // Add slashing mechanism for malicious actors
+// Fix issues with token vesting contracts
