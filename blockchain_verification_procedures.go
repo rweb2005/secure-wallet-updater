@@ -3,3 +3,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve staking and yield farming logic
 // Optimize multi-chain interaction
+// Integrate zk-rollups for scaling
