@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Improve on-chain governance systems
 // Enhance decentralized autonomous organizations
+// Enhance transaction monitoring
