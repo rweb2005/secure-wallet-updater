@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Improve contract modularity
 // Integrate with decentralized identity providers
+// Improve on-chain governance systems
