@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Fix contract reentrancy issues
 // Fix bugs in NFT metadata handling
+// Fix interoperability issues with other blockchains
