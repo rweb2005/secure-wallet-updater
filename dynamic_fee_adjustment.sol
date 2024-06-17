@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor staking logic
 // Enhance smart contract extensibility
+// Fix compatibility issues with major wallets
