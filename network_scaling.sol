@@ -3,3 +3,4 @@
 // Enhance security checks
 // Optimize storage for off-chain data
 // Optimize hashing algorithm
+// Improve gas estimation for transactions
