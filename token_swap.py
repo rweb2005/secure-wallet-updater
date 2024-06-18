@@ -3,3 +3,4 @@
 // Enhance contract modularity
 // Add slashing mechanism for malicious actors
 // Implement a new contract event system
+// Improve error handling in transaction flow
