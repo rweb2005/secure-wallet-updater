@@ -4,3 +4,4 @@
 // Fix contract reentrancy issues
 // Fix bugs in NFT metadata handling
 // Fix interoperability issues with other blockchains
+// Implement adaptive block size for Ethereum
