@@ -8,3 +8,4 @@
 // Fix compatibility issues with major wallets
 // Implement zero-knowledge proof (ZKP) support
 // Add slashing mechanism for malicious actors
+// Fix bugs in NFT metadata handling
