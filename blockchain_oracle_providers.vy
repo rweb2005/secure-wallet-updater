@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Implement reward distribution feature
 // Add support for ERC-721A tokens
+// Refactor incentive structure in DeFi protocol
