@@ -4,3 +4,4 @@
 // Refactor multi-asset token management
 // Enhance contract modularity
 // Fix memory optimization issues in contracts
+// Fix errors in NFT minting logic
