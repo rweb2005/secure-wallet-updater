@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Implement adaptive block size for Ethereum
 // Integrate Chainlink VRF for randomness
+// Add batch transaction capabilities
