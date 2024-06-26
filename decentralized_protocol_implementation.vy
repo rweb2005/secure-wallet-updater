@@ -4,3 +4,4 @@
 // Fix bugs in decentralized exchange routing
 // Implement dynamic fee adjustment
 // Fix transaction replay issue
+// Add support for decentralized marketplaces
