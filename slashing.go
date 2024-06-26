@@ -5,3 +5,4 @@
 // Implement time-locked contract execution
 // Add support for multiple consensus mechanisms
 // Fix issues with cross-chain transaction finality
+// Update README with Go module examples
