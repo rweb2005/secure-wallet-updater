@@ -3,3 +3,4 @@
 // Add support for NFT marketplaces
 // Improve staking pool reward management
 // Implement on-chain identity verification
+// Fix contract reentrancy issues
