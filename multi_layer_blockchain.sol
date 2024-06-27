@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous governance
 // Improve token burning mechanism
 // Add fallback mechanism in Solidity contract
+// Integrate IPFS for storage
