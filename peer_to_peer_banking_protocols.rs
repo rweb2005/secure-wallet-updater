@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Improve security for token minting contracts
 // Enhance decentralized autonomous organizations
+// Integrate zk-SNARKs for enhanced privacy
