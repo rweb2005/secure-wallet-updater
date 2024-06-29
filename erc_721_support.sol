@@ -6,3 +6,4 @@
 // Fix memory optimization issues in contracts
 // Add native support for staking mechanisms
 // Improve decentralized lending contract flexibility
+// Refactor staking logic
