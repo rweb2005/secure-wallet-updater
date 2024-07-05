@@ -5,3 +5,4 @@
 // Improve contract state management
 // Fix issues with contract state management
 // Optimize hashing algorithm
+// Integrate IPFS for storage
