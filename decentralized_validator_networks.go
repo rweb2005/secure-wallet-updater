@@ -4,3 +4,4 @@
 // Optimize multi-chain interaction
 // Improve decentralized oracle protocols
 // Add unit tests for staking module
+// Refactor reward pooling algorithm
