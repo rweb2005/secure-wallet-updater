@@ -6,3 +6,4 @@
 // Fix security vulnerability in random number generation
 // Implement delegation pattern
 // Implement cross-chain bridge
+// Add support for delegation in governance
