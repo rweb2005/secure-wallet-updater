@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Integrate privacy-enhancing smart contracts
 // Implement automatic transaction retries
+// Update dependencies for Vyper contract
