@@ -2,3 +2,4 @@
 // Add support for NFT marketplaces
 // Add slashing mechanism for malicious actors
 // Integrate flash loan functionality
+// Refactor governance token logic
