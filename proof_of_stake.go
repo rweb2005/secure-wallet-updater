@@ -7,3 +7,4 @@
 // Fix race condition in staking pool
 // Fix errors in contract interaction with wallets
 // Enhance privacy features using zk-STARKs
+// Refactor contract state machine design
