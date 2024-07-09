@@ -4,3 +4,4 @@
 // Fix Oracle communication delay issues
 // Fix issues with ERC-20 token approvals
 // Improve multi-chain contract deployment
+// Add slashing mechanism for malicious actors
