@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Enhance contract interaction APIs
 // Optimize token burn process
+// Optimize token minting flow
