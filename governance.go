@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Improve error handling in transaction flow
 // Fix issues with contract finalization
+// Fix vulnerability in decentralized finance protocols
