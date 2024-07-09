@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Reduce gas cost in minting logic
 // Refactor smart contract testing framework
+// Integrate Chainlink VRF for randomness
