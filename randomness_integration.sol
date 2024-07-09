@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Fix type mismatch in Haskell smart contract
 // Improve token minting flow efficiency
+// Add support for fractional token ownership
