@@ -8,3 +8,4 @@
 // Code cleanup and documentation update
 // Refactor validator reward system
 // Integrate with external DeFi protocols
+// Integrate multi-chain liquidity pools
