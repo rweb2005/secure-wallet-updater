@@ -7,3 +7,4 @@
 // Fix issues with token transfer confirmations
 // Enhance smart contract extensibility
 // Implement on-chain identity verification
+// Bugfix: incorrect reward calculation
