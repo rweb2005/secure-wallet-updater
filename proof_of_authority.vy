@@ -8,3 +8,4 @@
 // Implement contract function batching
 // Fix issue with multi-chain transactions
 // Integrate privacy-enhancing smart contracts
+// Fix type mismatch in Haskell smart contract
