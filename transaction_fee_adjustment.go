@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Integrate IPFS for storage
 // Bugfix: incorrect reward calculation
+// Improve staking logic for better rewards
