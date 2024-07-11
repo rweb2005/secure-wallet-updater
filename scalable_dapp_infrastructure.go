@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Implement automatic transaction retries
 // Update dependencies for Vyper contract
+// Update testing framework for Solidity
