@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Fix edge case in unstaking logic
 // Improve multi-chain contract deployment
+// Fix issues with cross-chain transaction finality
