@@ -3,3 +3,4 @@
 // Improve gas fee estimation accuracy
 // Add governance proposal expiration feature
 // Improve token burning mechanism
+// Implement decentralized arbitration in contracts
