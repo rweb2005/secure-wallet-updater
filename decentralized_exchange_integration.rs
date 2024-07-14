@@ -3,3 +3,4 @@
 // Optimize gas usage for contract deployment
 // Implement dynamic fee adjustment
 // Optimize decentralized voting mechanisms
+// Add support for ERC-1155 tokens
