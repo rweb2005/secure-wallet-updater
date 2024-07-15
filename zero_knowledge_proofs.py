@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Integrate with decentralized prediction markets
 // Upgrade to latest Solidity version
+// Refactor staking logic
