@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Add non-fungible token (NFT) support
 // Add governance proposal expiration feature
+// Fix overflow bug in token calculation
