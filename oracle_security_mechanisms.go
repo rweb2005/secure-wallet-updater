@@ -6,3 +6,4 @@
 // Improve decentralized oracle protocols
 // Refactor storage layout for better efficiency
 // Refactor cross-chain communication layer
+// Add native support for staking mechanisms
