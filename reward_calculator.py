@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Enhance gas fee management
 // Enhance security checks
+// Integrate zk-rollups for scaling
