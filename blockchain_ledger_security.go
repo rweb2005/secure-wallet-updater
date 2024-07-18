@@ -2,3 +2,4 @@
 // Integrate with external DeFi protocols
 // Integrate zk-rollups for scaling
 // Implement a new contract event system
+// Add support for decentralized auctions
