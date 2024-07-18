@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Add support for yield farming rewards
 // Add support for batch transaction processing
+// Implement contract function batching
