@@ -4,3 +4,4 @@
 // Optimize multi-chain interaction
 // Improve contract execution performance
 // Integrate IPFS for storage
+// Add new feature: on-chain governance
