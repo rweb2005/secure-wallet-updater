@@ -8,3 +8,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Add support for yield farming rewards
 // Add support for fractional token ownership
+// Improve error handling in transaction flow
