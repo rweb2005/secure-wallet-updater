@@ -4,3 +4,4 @@
 // Integrate with decentralized identity providers
 // Refactor ERC-721 transfer logic
 // Improve gas estimation for transactions
+// Improve contract interaction via APIs
