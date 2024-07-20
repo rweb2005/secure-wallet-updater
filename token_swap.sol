@@ -12,3 +12,4 @@
 // Add native support for staking rewards
 // Fix issues with ERC-20 token approvals
 // Improve contract execution speed
+// Improve error handling in transaction flow
