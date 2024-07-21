@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Update smart contract tests
 // Add support for yield farming rewards
+// Implement delegation pattern
