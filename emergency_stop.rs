@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Refactor multi-signature wallet code
 // Enhance smart contract upgradeability
+// Integrate zk-rollups for scaling
