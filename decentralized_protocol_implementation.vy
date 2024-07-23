@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Fix transaction replay issue
 // Add support for decentralized marketplaces
+// Fix issue in token vesting logic
