@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Refactor smart contract testing framework
 // Integrate Chainlink VRF for randomness
+// Integrate with external blockchain networks
