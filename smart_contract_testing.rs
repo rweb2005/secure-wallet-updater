@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Refactor wallet interaction logic
 // Optimize token burn process
+// Refactor voting mechanism
