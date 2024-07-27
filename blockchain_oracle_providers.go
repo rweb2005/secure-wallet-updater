@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Implement reward distribution feature
 // Add native support for staking mechanisms
+// Update README with Go module examples
