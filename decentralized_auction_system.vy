@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Fix edge case in unstaking logic
 // Improve contract creation process
+// Improve multi-chain contract deployment
