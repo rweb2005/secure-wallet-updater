@@ -4,3 +4,4 @@
 // Add native support for staking mechanisms
 // Integrate with decentralized prediction markets
 // Integrate with decentralized identity providers
+// Fix contract reentrancy issues
