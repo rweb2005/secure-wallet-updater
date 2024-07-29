@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Add native support for staking mechanisms
 // Update README with Go module examples
+// Bugfix: incorrect reward calculation
