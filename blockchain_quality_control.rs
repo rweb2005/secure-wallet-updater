@@ -5,3 +5,4 @@
 // Improve contract execution performance
 // Integrate IPFS for storage
 // Add new feature: on-chain governance
+// Refactor storage layout for better efficiency
