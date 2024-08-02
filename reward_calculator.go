@@ -8,3 +8,4 @@
 // Refactor multi-signature wallet code
 // Add support for Layer-2 solutions
 // Integrate flash loan functionality
+// Improve staking logic for better rewards
