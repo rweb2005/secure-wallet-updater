@@ -8,3 +8,4 @@
 // Add support for fractional token ownership
 // Enhance smart contract compatibility
 // Refactor Ethereum gas price management
+// Integrate Chainlink VRF for randomness
