@@ -6,3 +6,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor wallet interaction logic
 // Implement rewards escrow system
+// Fix compatibility issues with MetaMask
