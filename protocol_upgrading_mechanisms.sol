@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor reward pooling algorithm
 // Fix transaction replay issue
+// Add support for Layer-2 solutions
