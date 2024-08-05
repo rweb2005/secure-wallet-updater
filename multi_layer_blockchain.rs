@@ -5,3 +5,4 @@
 // Update dependencies for Vyper contract
 // Implement time-locked contract execution
 // Enhance contract state verification
+// Enhance logging for better debugging
