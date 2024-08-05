@@ -7,3 +7,4 @@
 // Improve staking pool reward management
 // Enhance governance contract flexibility
 // Add dynamic contract fees
+// Integrate zk-rollups for scaling
