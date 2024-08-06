@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Fix issues with ERC-20 token approvals
 // Bugfix: incorrect reward calculation
+// Add native support for staking rewards
