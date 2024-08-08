@@ -5,3 +5,4 @@
 // Fix contract reentrancy issues
 // Improve contract auditing tools
 // Enhance decentralized autonomous governance
+// Refactor staking logic
