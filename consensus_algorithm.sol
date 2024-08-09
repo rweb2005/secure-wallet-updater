@@ -8,3 +8,4 @@
 // Improve DApp transaction flow
 // Fix wallet interaction issues in DeFi protocols
 // Integrate decentralized oracles for data feeds
+// Enhance privacy features using zk-STARKs
