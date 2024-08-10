@@ -6,3 +6,4 @@
 // Enhance contract upgrade mechanism
 // Integrate with decentralized identity providers
 // Fix issues in token transfer logic
+// Add support for NFT marketplaces
