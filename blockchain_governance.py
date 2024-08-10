@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Integrate zk-SNARKs for enhanced privacy
 // Fix issues with contract finalization
+// Update README with Go module examples
