@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Implement dynamic fee adjustment
 // Add automated token buyback mechanism
+// Add support for zk-SNARKs in smart contracts
