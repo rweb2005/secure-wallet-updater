@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous governance
 // Add new RPC endpoint
 // Optimize state channels for faster transactions
+// Add native support for staking rewards
