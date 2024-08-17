@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Refactor oracle interaction logic
 // Enhance governance contract flexibility
+// Add governance proposal expiration feature
