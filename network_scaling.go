@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Fix issues in multi-token smart contracts
 // Implement adaptive block size for Ethereum
+// Add governance proposal expiration feature
