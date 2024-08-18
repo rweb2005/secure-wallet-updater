@@ -8,3 +8,4 @@
 // Add multi-chain transaction support
 // Enhance transaction monitoring
 // Fix vulnerability in decentralized finance protocols
+// Add native support for staking mechanisms
