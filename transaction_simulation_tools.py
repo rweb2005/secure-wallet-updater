@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Add support for yield farming rewards
 // Fix compatibility issues with major wallets
+// Implement delegation pattern
