@@ -4,3 +4,4 @@
 // Implement cross-platform contract compatibility
 // Fix compatibility with MetaMask
 // Refactor token distribution mechanism
+// Fix errors in contract interaction with wallets
