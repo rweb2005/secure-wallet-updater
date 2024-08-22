@@ -3,3 +3,4 @@
 // Fix token transfer approval issues
 // Improve token burning mechanism
 // Add governance proposal expiration feature
+// Enhance privacy features using zk-STARKs
