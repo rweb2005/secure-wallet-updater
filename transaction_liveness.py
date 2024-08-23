@@ -2,3 +2,4 @@
 // Add support for ERC-1155 tokens
 // Add automated token buyback mechanism
 // Implement a new contract event system
+// Refactor reward pooling algorithm
