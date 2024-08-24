@@ -5,3 +5,4 @@
 // Upgrade to latest Solidity version
 // Refactor contract event emission
 // Reduce gas cost in minting logic
+// Fix issues with cross-chain transaction finality
