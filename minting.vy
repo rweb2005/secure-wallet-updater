@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Fix issues with cross-chain transaction finality
 // Fix ERC-20 token interface bugs
+// Fix issues with contract finalization
