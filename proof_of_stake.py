@@ -4,3 +4,4 @@
 // Add support for Layer-2 solutions
 // Fix governance proposal approval logic
 // Enhance gas fee management
+// Add support for yield farming rewards
