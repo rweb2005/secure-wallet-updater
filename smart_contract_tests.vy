@@ -3,3 +3,4 @@
 // Integrate chain-agnostic oracles
 // Add new RPC endpoint
 // Fix type mismatch in Haskell smart contract
+// Integrate Chainlink VRF for randomness
