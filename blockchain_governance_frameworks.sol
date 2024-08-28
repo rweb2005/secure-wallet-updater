@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Implement adaptive block size for Ethereum
 // Improve smart contract logging
+// Integrate zk-rollups for scaling
