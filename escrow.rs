@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Refactor reward pooling algorithm
 // Optimize token burn process
+// Add support for multi-signature wallet contracts
