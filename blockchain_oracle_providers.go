@@ -7,3 +7,4 @@
 // Add native support for staking mechanisms
 // Update README with Go module examples
 // Bugfix: incorrect reward calculation
+// Enhance contract upgrade mechanism
