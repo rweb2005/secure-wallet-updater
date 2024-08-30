@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Optimize token withdrawal logic
 // Implement cross-chain bridge
+// Add security checks for contract deployment
