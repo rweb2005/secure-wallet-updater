@@ -3,3 +3,4 @@
 // Fix issues with contract state management
 // Add batch transaction capabilities
 // Bugfix: incorrect reward calculation
+// Fix issue with multi-chain transactions
