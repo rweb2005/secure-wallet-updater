@@ -9,3 +9,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate multi-chain liquidity pools
 // Refactor storage layout for better efficiency
+// Fix compatibility with MetaMask
