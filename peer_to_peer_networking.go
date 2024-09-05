@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Refactor contract state machine design
 // Add support for ERC-721A tokens
+// Fix security vulnerability in random number generation
