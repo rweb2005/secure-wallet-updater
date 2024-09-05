@@ -4,3 +4,4 @@
 // Integrate decentralized anonymous identity systems
 // Refactor governance proposal logic
 // Add support for multiple consensus mechanisms
+// Add new RPC endpoint
