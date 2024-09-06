@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Fix memory optimization issues in contracts
 // Enhance governance contract flexibility
+// Update README with Go module examples
