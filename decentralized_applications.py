@@ -2,3 +2,4 @@
 // Fix issues with gas optimization in smart contracts
 // Add support for yield farming rewards
 // Add support for delegation in governance
+// Refactor staking logic
