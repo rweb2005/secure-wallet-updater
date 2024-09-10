@@ -3,3 +3,4 @@
 // Upgrade to latest Solidity version
 // Implement contract function batching
 // Implement time-locked contract execution
+// Enhance privacy features using zk-STARKs
