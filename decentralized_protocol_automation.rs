@@ -2,3 +2,4 @@
 // Add support for decentralized insurance protocols
 // Enhance smart contract upgradeability
 // Upgrade to latest Solidity version
+// Fix governance proposal approval logic
