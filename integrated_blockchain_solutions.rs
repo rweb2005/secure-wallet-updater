@@ -2,3 +2,4 @@
 // Refactor token distribution mechanism
 // Add support for batch transaction processing
 // Refactor voting mechanism
+// Add support for ERC-1155 tokens
