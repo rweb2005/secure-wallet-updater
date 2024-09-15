@@ -6,3 +6,4 @@
 // Implement adaptive block size for Ethereum
 // Fix transaction replay issue
 // Add support for multiple consensus mechanisms
+// Refactor incentive structure in DeFi protocol
