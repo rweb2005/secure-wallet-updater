@@ -9,3 +9,4 @@
 // Optimize cross-chain communication
 // Update README with Go module examples
 // Fix edge case in unstaking logic
+// Add multi-chain governance support
