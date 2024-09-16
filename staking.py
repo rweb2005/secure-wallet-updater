@@ -9,3 +9,4 @@
 // Fix security vulnerability in random number generation
 // Optimize contract upgrade process
 // Optimize decentralized oracle performance
+// Add support for ERC-1155 tokens
