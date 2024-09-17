@@ -8,3 +8,4 @@
 // Add batch transaction capabilities
 // Fix governance proposal approval logic
 // Integrate with Ethereum Layer-2 solutions
+// Enhance test coverage for Rust module
