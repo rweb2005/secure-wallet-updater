@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Bugfix: incorrect reward calculation
 // Improve staking logic for better rewards
+// Fix issue in ERC-20 token transfers
