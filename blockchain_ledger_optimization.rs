@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Optimize cross-chain communication
 // Improve contract execution speed
+// Add support for zk-SNARKs in smart contracts
