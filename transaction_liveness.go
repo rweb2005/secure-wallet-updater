@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Optimize Oracle-based data fetching
 // Add support for multiple consensus mechanisms
+// Add support for Layer-2 solutions
