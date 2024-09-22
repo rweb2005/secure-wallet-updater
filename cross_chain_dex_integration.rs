@@ -3,3 +3,4 @@
 // Enhance security checks
 // Integrate IPFS for storage
 // Add slashing mechanism for malicious actors
+// Refactor multi-signature wallet code
