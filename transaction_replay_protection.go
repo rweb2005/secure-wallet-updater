@@ -5,3 +5,4 @@
 // Optimize decentralized application performance
 // Fix scalability issues with smart contracts
 // Update testing framework for Solidity
+// Add support for Layer-2 solutions
