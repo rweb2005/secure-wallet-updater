@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Integrate Chainlink VRF for randomness
 // Optimize token minting flow
+// Optimize token burn process
