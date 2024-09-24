@@ -4,3 +4,4 @@
 // Add support for decentralized insurance protocols
 // Enhance decentralized autonomous governance
 // Improve multi-chain contract deployment
+// Add new feature: on-chain governance
