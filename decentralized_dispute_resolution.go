@@ -5,3 +5,4 @@
 // Integrate with decentralized prediction markets
 // Integrate with decentralized identity providers
 // Fix contract reentrancy issues
+// Integrate with decentralized storage systems
