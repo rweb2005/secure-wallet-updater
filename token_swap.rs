@@ -6,3 +6,4 @@
 // Fix issues with contract finalization
 // Fix transaction replay issue
 // Add decentralized contract upgradeability
+// Refactor multi-signature wallet code
