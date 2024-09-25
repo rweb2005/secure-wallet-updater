@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Add new feature: on-chain governance
 // Refactor storage layout for better efficiency
+// Improve cross-chain asset management
