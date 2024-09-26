@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Integrate privacy-preserving mechanisms
 // Refactor governance proposal logic
+// Add support for decentralized insurance protocols
