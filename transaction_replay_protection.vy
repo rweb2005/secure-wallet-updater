@@ -10,3 +10,4 @@
 // Integrate privacy-preserving mechanisms
 // Refactor multi-signature wallet code
 // Add support for Layer-2 solutions
+// Implement adaptive block size for Ethereum
