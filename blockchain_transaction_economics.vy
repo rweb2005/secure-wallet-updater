@@ -6,3 +6,4 @@
 // Implement liquidity pool staking mechanism
 // Integrate Chainlink VRF for randomness
 // Fix issue in ERC-20 token transfers
+// Add support for Layer-2 solutions
