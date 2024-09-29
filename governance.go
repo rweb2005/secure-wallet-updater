@@ -7,3 +7,4 @@
 // Fix issues with contract finalization
 // Fix vulnerability in decentralized finance protocols
 // Fix overflow bug in token calculation
+// Fix issues in multi-token smart contracts
