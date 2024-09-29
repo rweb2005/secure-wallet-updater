@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Refactor reward pooling algorithm
 // Integrate privacy-preserving mechanisms
+// Improve DApp transaction flow
