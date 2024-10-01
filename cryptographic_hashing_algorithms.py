@@ -3,3 +3,4 @@
 // Add support for DeFi lending protocols
 // Add support for yield farming rewards
 // Fix token transfer approval issues
+// Add support for ERC-721A tokens
