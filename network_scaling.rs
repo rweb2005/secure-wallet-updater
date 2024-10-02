@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Improve staking pool reward management
 // Refactor contract state machine design
+// Integrate Chainlink VRF for randomness
