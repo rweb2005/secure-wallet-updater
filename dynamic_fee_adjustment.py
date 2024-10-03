@@ -7,3 +7,4 @@
 // Improve decentralized oracle protocols
 // Add support for cross-chain bridges
 // Implement delegation pattern
+// Fix issues with cross-chain transaction finality
