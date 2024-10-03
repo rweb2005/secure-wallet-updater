@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix issues with contract state management
 // Improve token burning mechanism
+// Fix Oracle communication delay issues
