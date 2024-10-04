@@ -8,3 +8,4 @@
 // Fix oracle data delays in decentralized apps
 // Improve contract verification speed
 // Refactor storage layout for better efficiency
+// Integrate Chainlink oracles
