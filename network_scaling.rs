@@ -6,3 +6,4 @@
 // Improve staking pool reward management
 // Refactor contract state machine design
 // Integrate Chainlink VRF for randomness
+// Improve smart contract code modularity
