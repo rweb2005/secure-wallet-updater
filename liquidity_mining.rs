@@ -5,3 +5,4 @@
 // Optimize decentralized oracle performance
 // Integrate zk-rollups for scaling
 // Improve contract interaction via APIs
+// Integrate with decentralized identity providers
