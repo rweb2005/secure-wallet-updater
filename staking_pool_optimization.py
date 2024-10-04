@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Enhance developer documentation
 // Add support for decentralized lending platforms
+// Refactor staking logic
