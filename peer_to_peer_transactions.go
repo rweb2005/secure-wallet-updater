@@ -6,3 +6,4 @@
 // Add automated contract testing tools
 // Fix security vulnerability in random number generation
 // Optimize cross-chain communication
+// Add support for Layer-2 solutions
