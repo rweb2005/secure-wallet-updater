@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor multi-signature wallet code
 // Fix bug in random number generation
+// Add multi-sig wallet functionality
