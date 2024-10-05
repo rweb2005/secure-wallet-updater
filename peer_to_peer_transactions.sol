@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Implement rewards escrow system
 // Implement emergency stop mechanism
+// Fix ERC-1155 contract interactions
