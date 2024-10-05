@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Refactor token economics model
 // Refactor governance proposal logic
+// Refactor governance token logic
