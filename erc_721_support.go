@@ -5,3 +5,4 @@
 // Enhance contract event handling
 // Integrate zk-rollups for scaling
 // Add batch transaction capabilities
+// Fix bugs in NFT metadata handling
