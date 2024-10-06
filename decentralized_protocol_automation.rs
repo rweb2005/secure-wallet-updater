@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Upgrade to latest Solidity version
 // Fix governance proposal approval logic
+// Enhance privacy features using zk-STARKs
