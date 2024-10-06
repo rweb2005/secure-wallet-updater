@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Add new RPC endpoint
 // Integrate with decentralized identity providers
+// Refactor governance token logic
