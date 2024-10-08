@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Fix bugs in NFT metadata handling
 // Improve security in decentralized applications
+// Refactor decentralized storage system
