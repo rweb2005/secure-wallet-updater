@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve multi-chain transaction processing
 // Enhance smart contract upgradeability
+// Add unit tests for staking module
