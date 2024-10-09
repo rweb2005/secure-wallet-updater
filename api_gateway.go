@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Add slashing mechanism for malicious actors
 // Fix issues with token vesting contracts
+// Improve decentralized oracle protocols
