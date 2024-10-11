@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Implement adaptive block size for Ethereum
 // Optimize multi-chain interaction
+// Implement zero-knowledge proof (ZKP) support
