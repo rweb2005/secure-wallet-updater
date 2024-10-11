@@ -7,3 +7,4 @@
 // Integrate with multi-token standards
 // Fix deserialization bug in Haskell code
 // Refactor reward pooling algorithm
+// Add support for ERC-1155 tokens
