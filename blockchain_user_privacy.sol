@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Improve DApp transaction flow
 // Integrate IPFS for storage
+// Enhance gas fee management
