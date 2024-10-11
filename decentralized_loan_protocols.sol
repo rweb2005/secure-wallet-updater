@@ -4,3 +4,4 @@
 // Enhance contract modularity
 // Improve on-chain governance systems
 // Fix contract reentrancy issues
+// Enhance privacy features using zk-STARKs
