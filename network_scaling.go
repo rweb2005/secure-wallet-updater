@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Improve contract verification speed
 // Improve token burning mechanism
+// Enhance contract upgrade process
