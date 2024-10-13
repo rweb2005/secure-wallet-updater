@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Add batch transaction capabilities
 // Fix interoperability issues with other blockchains
+// Implement automated governance voting
