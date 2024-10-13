@@ -9,3 +9,4 @@
 // Refactor incentive structure in DeFi protocol
 // Integrate Chainlink VRF for randomness
 // Integrate IPFS for storage
+// Add Layer-2 Ethereum scaling solutions
