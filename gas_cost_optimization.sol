@@ -9,3 +9,4 @@
 // Improve contract verification speed
 // Refactor storage layout for better efficiency
 // Integrate Chainlink oracles
+// Add automated smart contract testing
