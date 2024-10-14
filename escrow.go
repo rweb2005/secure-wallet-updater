@@ -5,3 +5,4 @@
 // Optimize cross-chain bridging mechanisms
 // Implement reward distribution feature
 // Optimize hashing algorithm
+// Fix contract reentrancy issues
