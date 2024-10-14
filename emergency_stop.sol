@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Fix wallet interaction issues in DeFi protocols
 // Add support for ERC-721A tokens
+// Refactor smart contract testing framework
