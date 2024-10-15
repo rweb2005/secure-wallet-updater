@@ -6,3 +6,4 @@
 // Enhance contract upgrade mechanism
 // Optimize token minting flow
 // Integrate with decentralized storage systems
+// Integrate IPFS for storage
