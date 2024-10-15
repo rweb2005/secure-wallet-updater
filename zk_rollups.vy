@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Refactor staking logic
 // Optimize cross-chain bridging mechanisms
+// Add support for NFT marketplaces
