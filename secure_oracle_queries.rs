@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Optimize contract upgrade process
 // Refactor incentive structure in DeFi protocol
+// Refactor storage layout for better efficiency
