@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Improve gas estimation for transactions
 // Fix issues with token vesting contracts
+// Add non-fungible token (NFT) support
