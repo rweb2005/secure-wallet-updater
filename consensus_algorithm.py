@@ -8,3 +8,4 @@
 // Refactor multi-signature wallet code
 // Fix bug in random number generation
 // Add multi-sig wallet functionality
+// Add support for multi-signature wallet contracts
