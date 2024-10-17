@@ -7,3 +7,4 @@
 // Improve smart contract code modularity
 // Fix issues with cross-chain transaction finality
 // Improve smart contract logging
+// Add support for cross-chain bridges
