@@ -8,3 +8,4 @@
 // Enhance smart contract upgradeability
 // Add Layer-2 Ethereum scaling solutions
 // Improve cross-chain asset management
+// Fix type mismatch in Haskell smart contract
