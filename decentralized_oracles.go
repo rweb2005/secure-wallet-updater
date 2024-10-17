@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Integrate privacy-enhancing smart contracts
 // Integrate decentralized oracles for data feeds
+// Add slashing mechanism for malicious actors
