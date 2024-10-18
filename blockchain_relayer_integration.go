@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Implement cross-chain bridge
 // Add support for delegation in governance
+// Add support for fractional token ownership
