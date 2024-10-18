@@ -2,3 +2,4 @@
 // Optimize gas usage in smart contracts
 // Implement contract function batching
 // Refactor incentive structure in DeFi protocol
+// Integrate zk-rollups for scaling
