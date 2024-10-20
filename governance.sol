@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Refactor incentive structure in DeFi protocol
 // Fix issues in token transfer logic
+// Add native support for staking mechanisms
