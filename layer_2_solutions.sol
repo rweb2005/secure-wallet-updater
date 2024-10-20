@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Enhance governance contract flexibility
 // Add governance proposal expiration feature
+// Fix compatibility with MetaMask
