@@ -6,3 +6,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve error handling in transaction flow
 // Add non-fungible token (NFT) support
+// Add new RPC endpoint
