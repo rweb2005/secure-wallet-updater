@@ -3,3 +3,4 @@
 // Add support for cross-chain bridges
 // Integrate privacy-preserving mechanisms
 // Fix Oracle communication delay issues
+// Integrate with decentralized identity providers
