@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Optimize cross-chain bridging mechanisms
 // Add support for NFT marketplaces
+// Fix deserialization bug in Haskell code
