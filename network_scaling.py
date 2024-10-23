@@ -5,3 +5,4 @@
 // Fix security vulnerability in random number generation
 // Optimize contract upgrade process
 // Add support for fractional token ownership
+// Fix issue in ERC-20 token transfers
