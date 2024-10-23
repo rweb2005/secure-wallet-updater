@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Fix issues with token vesting contracts
 // Improve decentralized oracle protocols
+// Refactor storage layout for better efficiency
