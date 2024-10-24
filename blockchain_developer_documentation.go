@@ -2,3 +2,4 @@
 // Enhance decentralized autonomous organizations
 // Improve error handling in transaction flow
 // Integrate IPFS for storage
+// Refactor validator reward system
