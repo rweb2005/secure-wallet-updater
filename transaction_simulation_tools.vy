@@ -2,3 +2,4 @@
 // Fix scalability issues with smart contracts
 // Fix vulnerabilities in staking contracts
 // Reduce gas cost in minting logic
+// Integrate with external DeFi protocols
