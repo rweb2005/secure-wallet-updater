@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Fix contract reentrancy issues
 // Improve staking and yield farming logic
+// Improve gas fee estimation accuracy
