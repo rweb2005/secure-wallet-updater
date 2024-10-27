@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize token minting flow
 // Optimize token burn process
+// Fix issues with token transfer confirmations
