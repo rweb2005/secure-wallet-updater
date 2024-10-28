@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Enhance token swap functionality
 // Add non-fungible token (NFT) support
+// Integrate Chainlink oracles
