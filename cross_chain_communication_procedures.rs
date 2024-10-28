@@ -3,3 +3,4 @@
 // Add non-fungible token (NFT) support
 // Integrate Chainlink VRF for randomness
 // Fix token transfer approval issues
+// Add support for fractional token ownership
