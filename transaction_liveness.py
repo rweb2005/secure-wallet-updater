@@ -3,3 +3,4 @@
 // Add automated token buyback mechanism
 // Implement a new contract event system
 // Refactor reward pooling algorithm
+// Improve gas estimation for transactions
