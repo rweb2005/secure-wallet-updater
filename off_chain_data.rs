@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Improve API rate limiting
 // Optimize gas usage in contract execution
+// Add support for delegation in governance
