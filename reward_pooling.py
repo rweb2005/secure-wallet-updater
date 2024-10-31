@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix errors in NFT minting logic
 // Refactor multi-asset token management
+// Implement cross-chain bridge
