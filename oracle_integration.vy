@@ -10,3 +10,4 @@
 // Update testing framework for Solidity
 // Enhance security checks
 // Improve API rate limiting
+// Add fallback mechanism in Solidity contract
