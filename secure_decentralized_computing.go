@@ -3,3 +3,4 @@
 // Optimize decentralized voting mechanisms
 // Add support for delegation in governance
 // Fix errors in contract interaction with wallets
+// Refactor staking logic
