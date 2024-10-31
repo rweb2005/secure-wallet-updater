@@ -9,3 +9,4 @@
 // Enhance transaction monitoring
 // Fix vulnerability in decentralized finance protocols
 // Add native support for staking mechanisms
+// Add slashing mechanism for malicious actors
