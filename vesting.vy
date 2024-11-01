@@ -8,3 +8,4 @@
 // Fix issue in token vesting logic
 // Refactor smart contract testing framework
 // Improve security for token minting contracts
+// Refactor reward pooling algorithm
