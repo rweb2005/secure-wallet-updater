@@ -5,3 +5,4 @@
 // Fix ERC-721 contract issues with transfers
 // Add batch processing for transactions
 // Improve contract modularity
+// Add multi-chain transaction support
