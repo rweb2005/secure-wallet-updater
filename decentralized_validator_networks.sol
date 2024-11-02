@@ -2,3 +2,4 @@
 // Add decentralized contract upgradeability
 // Enhance governance contract flexibility
 // Bugfix: incorrect reward calculation
+// Enhance logging for better debugging
