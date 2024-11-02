@@ -6,3 +6,4 @@
 // Refactor wallet interaction logic
 // Fix issues with gas optimization in smart contracts
 // Reduce gas cost in minting logic
+// Improve contract modularity
