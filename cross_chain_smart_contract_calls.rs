@@ -3,3 +3,4 @@
 // Refactor token distribution mechanism
 // Refactor governance token logic
 // Refactor decentralized exchange (DEX) code
+// Enhance cryptographic primitives in contracts
