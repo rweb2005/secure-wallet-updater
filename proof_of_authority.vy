@@ -10,3 +10,4 @@
 // Integrate privacy-enhancing smart contracts
 // Fix type mismatch in Haskell smart contract
 // Improve token minting flow efficiency
+// Update testing framework for Solidity
