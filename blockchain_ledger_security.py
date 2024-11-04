@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance security checks
 // Improve decentralized exchange (DEX) liquidity
+// Add support for delegation in governance
