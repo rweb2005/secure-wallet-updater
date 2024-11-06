@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Optimize contract upgrade process
 // Refactor contract to use EIP-712 signatures
+// Integrate with Ethereum Layer-2 solutions
