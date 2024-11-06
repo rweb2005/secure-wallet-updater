@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Optimize storage for off-chain data
 // Integrate flash loan functionality
+// Implement adaptive block size for Ethereum
