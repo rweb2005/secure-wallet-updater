@@ -7,3 +7,4 @@
 // Refactor contract state machine design
 // Integrate Chainlink VRF for randomness
 // Improve smart contract code modularity
+// Refactor decentralized exchange (DEX) code
