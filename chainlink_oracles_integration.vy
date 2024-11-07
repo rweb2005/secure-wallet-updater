@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Add support for ERC-1155 tokens
 // Fix issues with ERC-20 token approvals
+// Add support for ERC-721A tokens
