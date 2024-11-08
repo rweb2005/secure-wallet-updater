@@ -6,3 +6,4 @@
 // Fix errors in NFT minting logic
 // Refactor multi-asset token management
 // Implement cross-chain bridge
+// Refactor cross-chain communication layer
