@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Optimize token burn process
 // Refactor token economics model
+// Refactor wallet interaction logic
