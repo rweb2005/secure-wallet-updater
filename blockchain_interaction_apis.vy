@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Add support for ERC-721A tokens
 // Integrate with decentralized identity providers
+// Add support for decentralized credit scoring
