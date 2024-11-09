@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Add security checks for contract deployment
 // Improve API rate limiting
+// Add dynamic contract fees
