@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Improve staking and yield farming logic
 // Improve multi-chain contract deployment
+// Refactor staking logic
