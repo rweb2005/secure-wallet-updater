@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Integrate with decentralized identity providers
 // Improve contract creation process
+// Fix errors in contract interaction with wallets
