@@ -11,3 +11,4 @@
 // Enhance security checks
 // Improve API rate limiting
 // Add fallback mechanism in Solidity contract
+// Improve gas estimation for transactions
