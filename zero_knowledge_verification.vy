@@ -8,3 +8,4 @@
 // Fix issues with contract state management
 // Improve gas estimation for transactions
 // Refactor reward pooling algorithm
+// Integrate with multi-token standards
