@@ -8,3 +8,4 @@
 // Fix errors in contract interaction with wallets
 // Enhance privacy features using zk-STARKs
 // Refactor contract state machine design
+// Fix ERC-20 token interface bugs
