@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Optimize oracle data fetching mechanism
 // Implement price feed oracles for tokens
+// Add multi-chain transaction support
