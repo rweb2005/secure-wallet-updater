@@ -7,3 +7,4 @@
 // Implement a new contract event system
 // Implement adaptive block size for Ethereum
 // Integrate Chainlink VRF for randomness
+// Fix issue in ERC-20 token transfers
