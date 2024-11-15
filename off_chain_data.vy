@@ -9,3 +9,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Update testing framework for Solidity
 // Improve gas fee estimation accuracy
+// Add slashing mechanism for malicious actors
