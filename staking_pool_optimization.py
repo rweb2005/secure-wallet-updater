@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Add support for decentralized lending platforms
 // Refactor staking logic
+// Improve token burning mechanism
