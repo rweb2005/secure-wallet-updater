@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Add support for multi-signature wallet contracts
 // Enhance privacy features using zk-STARKs
+// Refactor wallet interaction logic
