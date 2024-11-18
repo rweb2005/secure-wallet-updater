@@ -7,3 +7,4 @@
 // Refactor smart contract testing framework
 // Integrate Chainlink VRF for randomness
 // Integrate with external blockchain networks
+// Code cleanup and documentation update
