@@ -4,3 +4,4 @@
 // Upgrade to latest Solidity version
 // Fix governance proposal approval logic
 // Enhance privacy features using zk-STARKs
+// Optimize storage for off-chain data
