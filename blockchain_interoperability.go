@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Enhance contract state verification
 // Improve contract state management
+// Enhance privacy features using zk-STARKs
