@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Add batch transaction capabilities
 // Improve contract execution performance
+// Add support for zk-SNARKs in smart contracts
