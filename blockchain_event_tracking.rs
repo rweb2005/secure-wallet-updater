@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Improve security for token minting contracts
 // Refactor contract state machine design
+// Enhance contract initialization process
