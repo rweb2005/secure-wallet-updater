@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Fix ERC-1155 contract interactions
 // Optimize proof-of-stake validation
+// Integrate privacy-preserving mechanisms
