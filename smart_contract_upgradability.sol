@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Add non-fungible token (NFT) support
 // Refactor oracle interaction logic
+// Fix interoperability issues with other blockchains
