@@ -9,3 +9,4 @@
 // Refactor smart contract testing framework
 // Improve security for token minting contracts
 // Refactor reward pooling algorithm
+// Bugfix: incorrect reward calculation
