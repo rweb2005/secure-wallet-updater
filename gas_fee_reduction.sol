@@ -2,3 +2,4 @@
 // Refactor governance proposal logic
 // Add support for decentralized file storage
 // Optimize contract upgrade process
+// Optimize storage for off-chain data
