@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for ERC-1155 tokens
 // Refactor wallet interaction logic
+// Fix deserialization bug in Haskell code
