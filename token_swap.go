@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Add non-fungible token (NFT) support
 // Add new RPC endpoint
+// Upgrade to latest Solidity version
