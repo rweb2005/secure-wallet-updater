@@ -4,3 +4,4 @@
 // Improve decentralized identity (DID) systems
 // Improve contract auditing tools
 // Refactor validator reward system
+// Integrate Chainlink VRF for randomness
