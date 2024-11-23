@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Integrate IPFS for storage
 // Refactor validator reward system
+// Fix compatibility issues with major wallets
