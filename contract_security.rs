@@ -4,3 +4,4 @@
 // Update dependencies for Vyper contract
 // Add native support for staking rewards
 // Improve security in decentralized applications
+// Integrate zk-rollups for scaling
