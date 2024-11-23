@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Add batch processing for transactions
 // Fix issue with multi-chain transactions
+// Add support for batch transaction processing
