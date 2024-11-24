@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Add support for decentralized content distribution
 // Optimize WASM compilation for Go contracts
+// Add support for zk-SNARKs in smart contracts
