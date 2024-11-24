@@ -13,3 +13,4 @@
 // Fix errors in NFT minting logic
 // Refactor contract state machine design
 // Add multi-sig wallet functionality
+// Optimize gas usage in smart contracts
