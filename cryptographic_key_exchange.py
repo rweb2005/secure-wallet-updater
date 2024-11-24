@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Fix type mismatch in Haskell smart contract
 // Refactor staking logic
+// Improve staking pool reward management
