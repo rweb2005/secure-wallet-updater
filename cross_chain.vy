@@ -6,3 +6,4 @@
 // Improve transaction batching efficiency
 // Enhance smart contract state changes monitoring
 // Add multi-sig wallet functionality
+// Add support for zk-SNARKs in smart contracts
