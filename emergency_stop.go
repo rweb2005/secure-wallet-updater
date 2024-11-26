@@ -4,3 +4,4 @@
 // Refactor token distribution mechanism
 // Refactor reward pooling algorithm
 // Implement automatic transaction retries
+// Refactor decentralized exchange (DEX) code
