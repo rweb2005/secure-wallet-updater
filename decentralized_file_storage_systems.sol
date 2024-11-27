@@ -2,3 +2,4 @@
 // Fix bugs in NFT metadata handling
 // Improve oracle data validation mechanisms
 // Optimize token withdrawal logic
+// Add governance proposal expiration feature
