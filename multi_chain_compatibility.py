@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Improve contract state management
 // Enhance decentralized autonomous governance
+// Update README with Go module examples
