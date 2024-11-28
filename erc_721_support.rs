@@ -2,3 +2,4 @@
 // Improve smart contract code modularity
 // Enhance contract interaction APIs
 // Fix contract reentrancy issues
+// Fix issues with ERC-20 token approvals
