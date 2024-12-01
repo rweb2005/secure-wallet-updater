@@ -3,3 +3,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Add support for multiple consensus mechanisms
 // Implement adaptive block size for Ethereum
+// Update testing framework for Solidity
