@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Refactor reward pooling algorithm
 // Update README with Go module examples
+// Improve token burning mechanism
