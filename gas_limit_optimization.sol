@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Improve contract state management
 // Implement on-chain identity verification
+// Bugfix: incorrect reward calculation
