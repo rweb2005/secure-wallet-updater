@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Refactor ERC-721 transfer logic
 // Fix ERC-20 token interface bugs
+// Add security checks for contract deployment
