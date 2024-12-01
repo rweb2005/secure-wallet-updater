@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix issues in token transfer logic
 // Add support for decentralized insurance protocols
+// Implement reward distribution feature
