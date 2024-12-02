@@ -4,3 +4,4 @@
 // Fix type mismatch in Haskell smart contract
 // Enhance contract modularity
 // Enhance contract modularity for future upgrades
+// Refactor token distribution mechanism
