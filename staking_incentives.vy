@@ -5,3 +5,4 @@
 // Add support for NFT marketplaces
 // Improve transaction batching efficiency
 // Enhance decentralized autonomous governance
+// Update README with Go module examples
