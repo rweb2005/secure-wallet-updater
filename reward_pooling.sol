@@ -3,3 +3,4 @@
 // Fix bugs in decentralized exchange routing
 // Optimize storage for off-chain data
 // Fix governance proposal approval logic
+// Refactor staking logic
