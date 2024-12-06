@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Optimize storage for off-chain data
 // Optimize cross-chain bridging mechanisms
+// Refactor storage layout for better efficiency
