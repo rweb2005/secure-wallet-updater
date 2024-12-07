@@ -8,3 +8,4 @@
 // Refactor storage layout for better efficiency
 // Improve cross-chain asset management
 // Optimize multi-chain interaction
+// Fix deserialization bug in Haskell code
