@@ -8,3 +8,4 @@
 // Add support for yield farming rewards
 // Add support for decentralized credit scoring
 // Fix overflow bug in token calculation
+// Update README with Go module examples
