@@ -5,3 +5,4 @@
 // Optimize token withdrawal logic
 // Fix oracle data delays in decentralized apps
 // Improve gas estimation for transactions
+// Fix vulnerabilities in staking contracts
