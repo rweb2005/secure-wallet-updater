@@ -4,3 +4,4 @@
 // Fix issues with ERC-20 token approvals
 // Bugfix: incorrect reward calculation
 // Add native support for staking rewards
+// Add support for Layer-2 solutions
