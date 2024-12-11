@@ -5,3 +5,4 @@
 // Enhance contract state verification
 // Implement delegation pattern
 // Add dynamic contract upgrade mechanisms
+// Improve staking logic for better rewards
