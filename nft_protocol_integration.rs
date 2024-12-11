@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Add support for delegation in governance
 // Fix ERC-20 token interface bugs
+// Integrate Chainlink VRF for randomness
