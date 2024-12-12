@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Enhance token swap functionality
 // Enhance contract upgrade process
+// Add unit tests for staking module
