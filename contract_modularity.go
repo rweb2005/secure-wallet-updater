@@ -3,3 +3,4 @@
 // Refactor ERC-721 transfer logic
 // Fix issues with contract state management
 // Fix issues with cross-chain transaction finality
+// Integrate with multi-token standards
