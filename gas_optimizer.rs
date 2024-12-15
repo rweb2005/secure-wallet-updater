@@ -10,3 +10,4 @@
 // Add support for fractional token ownership
 // Improve error handling in transaction flow
 // Improve contract modularity
+// Improve gas fee estimation accuracy
