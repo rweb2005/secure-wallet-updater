@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Refactor wallet interaction logic
 // Fix deserialization bug in Haskell code
+// Enhance privacy features using zk-STARKs
