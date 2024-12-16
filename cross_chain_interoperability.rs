@@ -2,3 +2,4 @@
 // Fix bugs in decentralized exchange routing
 // Refactor validator reward system
 // Fix overflow bug in token calculation
+// Enhance privacy features using zk-STARKs
