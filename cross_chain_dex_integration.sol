@@ -4,3 +4,4 @@
 // Improve security for token minting contracts
 // Update testing framework for Solidity
 // Optimize contract upgrade process
+// Refactor reward pooling algorithm
