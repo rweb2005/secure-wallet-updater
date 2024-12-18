@@ -9,3 +9,4 @@
 // Fix Oracle communication delay issues
 // Enhance privacy features using zk-STARKs
 // Add support for ERC-1155 tokens
+// Optimize hashing algorithm
