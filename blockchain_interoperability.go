@@ -6,3 +6,4 @@
 // Enhance contract state verification
 // Improve contract state management
 // Enhance privacy features using zk-STARKs
+// Refactor staking logic
