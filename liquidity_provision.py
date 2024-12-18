@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Implement liquidity pool staking mechanism
 // Fix ERC-721 contract issues with transfers
+// Add automated smart contract testing
