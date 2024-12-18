@@ -3,3 +3,4 @@
 // Fix errors in NFT minting logic
 // Fix ERC-721 contract issues with transfers
 // Implement automatic transaction retries
+// Add native support for staking rewards
