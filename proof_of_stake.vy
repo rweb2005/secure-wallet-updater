@@ -5,3 +5,4 @@
 // Improve smart contract logging
 // Refactor staking logic
 // Integrate with multi-token standards
+// Integrate with external DeFi protocols
