@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Code cleanup and documentation update
 // Implement decentralized arbitration in contracts
+// Fix issues in multi-token smart contracts
