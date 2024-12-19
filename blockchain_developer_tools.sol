@@ -4,3 +4,4 @@
 // Implement time-locked contract execution
 // Integrate IPFS for storage
 // Integrate staking rewards automation
+// Bugfix: incorrect reward calculation
