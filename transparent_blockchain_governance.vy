@@ -6,3 +6,4 @@
 // Enhance smart contract upgradeability
 // Add unit tests for staking module
 // Enhance contract upgrade mechanism
+// Enhance cryptographic primitives in contracts
