@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Update testing framework for Solidity
 // Add support for decentralized insurance protocols
+// Refactor contract state machine design
