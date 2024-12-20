@@ -6,3 +6,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Integrate chain-agnostic oracles
 // Improve contract state management
+// Integrate Chainlink VRF for randomness
