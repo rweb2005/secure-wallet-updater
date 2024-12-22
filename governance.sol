@@ -8,3 +8,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix issues in token transfer logic
 // Add native support for staking mechanisms
+// Fix issues with ERC-20 token approvals
