@@ -4,3 +4,4 @@
 // Add support for decentralized auctions
 // Refactor storage layout for better efficiency
 // Fix issue in ERC-20 token transfers
+// Add automated contract testing tools
