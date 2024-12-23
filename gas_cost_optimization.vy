@@ -12,3 +12,4 @@
 // Add support for Layer-2 solutions
 // Refactor multi-asset token management
 // Improve decentralized exchange (DEX) liquidity
+// Fix issues with token vesting contracts
