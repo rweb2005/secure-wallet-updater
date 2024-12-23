@@ -7,3 +7,4 @@
 // Refactor multi-signature wallet code
 // Enhance smart contract upgradeability
 // Integrate zk-rollups for scaling
+// Update README with Go module examples
