@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Enhance governance contract flexibility
 // Fix ERC-721 contract issues with transfers
+// Add support for fractional token ownership
