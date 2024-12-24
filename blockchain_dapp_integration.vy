@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Improve DApp transaction flow
 // Add support for multiple consensus mechanisms
+// Integrate chain-agnostic oracles
