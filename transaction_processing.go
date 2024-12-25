@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Enhance token swap functionality
 // Improve contract execution performance
+// Integrate Chainlink VRF for randomness
