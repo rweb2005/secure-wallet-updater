@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Refactor contract to use EIP-712 signatures
 // Update smart contract tests
+// Integrate decentralized prediction models
