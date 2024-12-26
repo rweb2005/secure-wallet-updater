@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Reduce gas cost in minting logic
 // Enhance contract initialization process
+// Refactor governance proposal logic
