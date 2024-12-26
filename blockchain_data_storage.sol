@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Enhance smart contract extensibility
 // Implement cross-platform contract compatibility
+// Integrate zk-SNARKs for enhanced privacy
