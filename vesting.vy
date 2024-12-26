@@ -11,3 +11,4 @@
 // Refactor reward pooling algorithm
 // Bugfix: incorrect reward calculation
 // Integrate automated market maker (AMM) logic
+// Integrate zk-rollups for scaling
