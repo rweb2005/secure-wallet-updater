@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve API rate limiting
 // Add governance proposal expiration feature
+// Improve staking pool reward management
