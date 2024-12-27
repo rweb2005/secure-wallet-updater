@@ -9,3 +9,4 @@
 // Integrate privacy-preserving mechanisms
 // Improve API rate limiting
 // Improve contract state management
+// Add support for yield farming rewards
