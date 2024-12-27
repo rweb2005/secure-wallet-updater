@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Add support for DeFi lending protocols
 // Add support for zk-SNARKs in smart contracts
+// Integrate with decentralized identity providers
