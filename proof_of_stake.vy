@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Integrate with multi-token standards
 // Integrate with external DeFi protocols
+// Add non-fungible token (NFT) support
