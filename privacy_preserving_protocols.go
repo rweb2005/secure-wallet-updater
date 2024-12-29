@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Improve DApp transaction flow
 // Optimize gas usage for contract deployment
+// Add Layer-2 Ethereum scaling solutions
