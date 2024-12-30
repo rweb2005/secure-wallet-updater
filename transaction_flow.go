@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Add automated token buyback mechanism
 // Integrate decentralized anonymous identity systems
+// Integrate zk-rollups for scaling
