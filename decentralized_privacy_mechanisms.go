@@ -5,3 +5,4 @@
 // Fix issues with cross-chain transaction finality
 // Add new RPC endpoint
 // Integrate Chainlink VRF for randomness
+// Improve error handling in transaction flow
