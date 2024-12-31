@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Improve multi-chain contract deployment
 // Refactor staking logic
+// Reduce gas cost in minting logic
