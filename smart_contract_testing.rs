@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Refactor voting mechanism
 // Integrate decentralized prediction models
+// Integrate with decentralized identity providers
