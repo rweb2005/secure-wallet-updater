@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve smart contract code modularity
 // Refactor decentralized exchange (DEX) code
+// Fix security vulnerability in random number generation
