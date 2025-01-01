@@ -5,3 +5,4 @@
 // Enhance smart contract audit tools
 // Fix transaction replay issue
 // Refactor smart contract testing framework
+// Optimize storage for off-chain data
