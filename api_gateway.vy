@@ -5,3 +5,4 @@
 // Add support for NFT marketplaces
 // Add fallback mechanism in Solidity contract
 // Fix issue in token vesting logic
+// Fix compatibility issues with major wallets
