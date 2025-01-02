@@ -7,3 +7,4 @@
 // Optimize hashing algorithm
 // Fix contract reentrancy issues
 // Enhance smart contract upgradeability
+// Fix issues with cross-chain transaction finality
