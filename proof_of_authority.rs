@@ -13,3 +13,4 @@
 // Implement a new contract event system
 // Update testing framework for Solidity
 // Improve contract creation process
+// Integrate with Ethereum Layer-2 solutions
