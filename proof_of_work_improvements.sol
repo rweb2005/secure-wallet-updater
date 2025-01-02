@@ -8,3 +8,4 @@
 // Optimize gas cost in function execution
 // Optimize gas usage in smart contracts
 // Improve security in decentralized applications
+// Enhance smart contract upgradeability
