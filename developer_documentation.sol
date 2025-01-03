@@ -11,3 +11,4 @@
 // Add support for ERC-1155 tokens
 // Integrate Chainlink VRF for randomness
 // Add batch transaction capabilities
+// Optimize state channels for faster transactions
