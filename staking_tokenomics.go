@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor contract state machine design
 // Add multi-chain governance support
+// Refactor storage layout for better efficiency
