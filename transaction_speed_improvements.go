@@ -4,3 +4,4 @@
 // Implement automated governance voting
 // Optimize storage for off-chain data
 // Update README with Go module examples
+// Add support for NFT marketplaces
