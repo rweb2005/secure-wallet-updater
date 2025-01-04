@@ -12,3 +12,4 @@
 // Integrate Chainlink VRF for randomness
 // Add batch transaction capabilities
 // Optimize state channels for faster transactions
+// Fix issue with multi-chain transactions
