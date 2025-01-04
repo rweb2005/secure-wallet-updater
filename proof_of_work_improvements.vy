@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Fix bugs in multi-token systems
 // Integrate privacy-preserving mechanisms
+// Enhance governance contract flexibility
