@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Refactor smart contract testing framework
 // Optimize storage for off-chain data
+// Add support for decentralized insurance protocols
