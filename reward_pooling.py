@@ -8,3 +8,4 @@
 // Implement cross-chain bridge
 // Refactor cross-chain communication layer
 // Improve transaction batching efficiency
+// Refactor contract state machine design
