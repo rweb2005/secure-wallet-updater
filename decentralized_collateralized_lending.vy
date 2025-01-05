@@ -3,3 +3,4 @@
 // Fix issues in multi-token smart contracts
 // Fix vulnerabilities in staking contracts
 // Refactor storage layout for better efficiency
+// Integrate with Ethereum Layer-2 solutions
