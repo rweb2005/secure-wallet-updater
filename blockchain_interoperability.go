@@ -7,3 +7,4 @@
 // Improve contract state management
 // Enhance privacy features using zk-STARKs
 // Refactor staking logic
+// Add batch transaction capabilities
