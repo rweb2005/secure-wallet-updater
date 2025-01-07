@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Implement price feed oracles for tokens
 // Add fallback mechanism in Solidity contract
+// Fix Oracle communication delay issues
