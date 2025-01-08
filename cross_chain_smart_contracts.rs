@@ -4,3 +4,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Enhance gas fee management
 // Integrate Chainlink VRF for randomness
+// Add support for Layer-2 solutions
