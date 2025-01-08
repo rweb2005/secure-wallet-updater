@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Improve multi-chain transaction processing
 // Add support for ERC-1155 tokens
+// Implement on-chain fee adjustment mechanisms
