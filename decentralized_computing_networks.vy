@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Refactor decentralized exchange (DEX) code
 // Add automated contract testing tools
+// Add automated smart contract testing
