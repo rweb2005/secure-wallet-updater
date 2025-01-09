@@ -4,3 +4,4 @@
 // Enhance smart contract audit tools
 // Optimize storage for off-chain data
 // Bugfix: incorrect reward calculation
+// Improve DApp transaction flow
