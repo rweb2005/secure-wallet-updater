@@ -10,3 +10,4 @@
 // Fix issue in ERC-20 token transfers
 // Fix transaction replay issue
 // Reduce gas cost in minting logic
+// Implement liquidity pool staking mechanism
