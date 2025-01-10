@@ -13,3 +13,4 @@
 // Add fallback mechanism in Solidity contract
 // Improve gas estimation for transactions
 // Code cleanup and documentation update
+// Integrate Chainlink oracles for price data
