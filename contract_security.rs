@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Improve security in decentralized applications
 // Integrate zk-rollups for scaling
+// Improve staking logic for better rewards
