@@ -11,3 +11,4 @@
 // Improve error handling in transaction flow
 // Improve contract modularity
 // Improve gas fee estimation accuracy
+// Refactor storage layout for better efficiency
