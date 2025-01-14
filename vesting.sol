@@ -7,3 +7,4 @@
 // Add support for NFT marketplaces
 // Fix interoperability issues with other blockchains
 // Fix oracle data delays in decentralized apps
+// Implement delegation pattern
