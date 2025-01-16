@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Add support for Layer-2 solutions
 // Add Layer-2 Ethereum scaling solutions
+// Implement price feed oracles for tokens
