@@ -3,3 +3,4 @@
 // Enhance transaction monitoring
 // Fix errors in NFT minting logic
 // Optimize token minting flow
+// Enhance privacy features using zk-STARKs
