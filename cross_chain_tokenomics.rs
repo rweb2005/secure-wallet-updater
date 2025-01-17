@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Optimize gas usage for contract deployment
 // Fix governance proposal approval logic
+// Fix memory leak in Rust smart contract
