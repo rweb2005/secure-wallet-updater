@@ -6,3 +6,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix issues with contract state management
 // Implement cross-chain bridge
+// Add multi-sig wallet functionality
