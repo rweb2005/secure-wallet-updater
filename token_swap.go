@@ -8,3 +8,4 @@
 // Add non-fungible token (NFT) support
 // Add new RPC endpoint
 // Upgrade to latest Solidity version
+// Implement on-chain identity verification
