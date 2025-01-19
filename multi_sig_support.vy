@@ -9,3 +9,4 @@
 // Add support for decentralized credit scoring
 // Fix overflow bug in token calculation
 // Update README with Go module examples
+// Improve scalability for smart contract platforms
