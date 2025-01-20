@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Refactor decentralized storage system
 // Fix deserialization bug in Haskell code
+// Refactor decentralized governance structure
