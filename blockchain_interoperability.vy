@@ -6,3 +6,4 @@
 // Update README with Go module examples
 // Optimize gas usage in smart contracts
 // Enhance off-chain data processing
+// Fix bugs in NFT metadata handling
