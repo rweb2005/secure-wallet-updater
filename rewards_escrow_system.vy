@@ -6,3 +6,4 @@
 // Enhance off-chain data processing
 // Optimize gas usage in smart contracts
 // Improve gas estimation for transactions
+// Refactor reward pooling algorithm
