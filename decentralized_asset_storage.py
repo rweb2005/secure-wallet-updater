@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Add fallback mechanism in Solidity contract
 // Fix issue in token vesting logic
+// Fix vulnerabilities in staking contracts
