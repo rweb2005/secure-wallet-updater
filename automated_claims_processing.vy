@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Add support for cross-chain bridges
 // Add batch transaction capabilities
+// Integrate zk-rollups for scaling
