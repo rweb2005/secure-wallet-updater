@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Add support for decentralized marketplaces
 // Fix issue in token vesting logic
+// Fix compatibility with MetaMask
