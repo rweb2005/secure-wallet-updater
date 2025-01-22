@@ -11,3 +11,4 @@
 // Integrate IPFS for storage
 // Add Layer-2 Ethereum scaling solutions
 // Integrate with external DeFi protocols
+// Improve error handling in transaction flow
