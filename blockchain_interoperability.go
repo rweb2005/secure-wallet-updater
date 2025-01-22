@@ -8,3 +8,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor staking logic
 // Add batch transaction capabilities
+// Add support for NFT marketplaces
