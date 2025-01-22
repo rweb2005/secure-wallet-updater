@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Add automated contract testing tools
 // Add automated smart contract testing
+// Fix issues with token transfer confirmations
