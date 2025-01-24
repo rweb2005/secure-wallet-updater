@@ -9,3 +9,4 @@
 // Implement on-chain identity verification
 // Bugfix: incorrect reward calculation
 // Integrate with multi-token standards
+// Implement delegation pattern
