@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix token transfer approval issues
 // Fix transaction replay issue
+// Enhance contract initialization process
