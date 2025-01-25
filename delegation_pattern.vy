@@ -5,3 +5,4 @@
 // Add automated token buyback mechanism
 // Fix issue in token vesting logic
 // Improve scalability for smart contract platforms
+// Fix vulnerabilities in staking contracts
