@@ -8,3 +8,4 @@
 // Add support for Layer-2 solutions
 // Add Layer-2 Ethereum scaling solutions
 // Implement price feed oracles for tokens
+// Fix issues with token transfer confirmations
