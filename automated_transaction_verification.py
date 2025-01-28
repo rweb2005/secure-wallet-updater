@@ -2,3 +2,4 @@
 // Fix issues in multi-token smart contracts
 // Improve staking pool reward management
 // Fix bug in random number generation
+// Update testing framework for Solidity
