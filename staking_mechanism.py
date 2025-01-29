@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance contract initialization process
 // Improve token minting flow efficiency
+// Enhance smart contract extensibility
