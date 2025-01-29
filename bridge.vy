@@ -7,3 +7,4 @@
 // Refactor decentralized governance structure
 // Integrate Chainlink oracles
 // Add batch processing for transactions
+// Integrate Chainlink oracles for price data
