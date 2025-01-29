@@ -7,3 +7,4 @@
 // Update dependencies for Vyper contract
 // Optimize contract upgrade process
 // Implement adaptive block size for Ethereum
+// Add slashing mechanism for malicious actors
