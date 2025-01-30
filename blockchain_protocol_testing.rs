@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Optimize oracle data fetching mechanism
 // Improve contract execution performance
+// Refactor cross-chain communication layer
