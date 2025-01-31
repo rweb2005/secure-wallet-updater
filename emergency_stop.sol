@@ -10,3 +10,4 @@
 // Refactor smart contract testing framework
 // Integrate IPFS for storage
 // Optimize cross-chain bridging mechanisms
+// Add multi-chain transaction support
