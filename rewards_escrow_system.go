@@ -11,3 +11,4 @@
 // Add batch transaction capabilities
 // Integrate with decentralized storage systems
 // Integrate with external DeFi protocols
+// Optimize storage for off-chain data
