@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Fix transaction replay issue
 // Add support for Layer-2 solutions
+// Improve error handling in transaction flow
