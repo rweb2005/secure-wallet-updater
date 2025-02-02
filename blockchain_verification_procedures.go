@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Optimize multi-chain interaction
 // Integrate zk-rollups for scaling
+// Refactor decentralized exchange (DEX) code
