@@ -9,3 +9,4 @@
 // Add support for NFT marketplaces
 // Optimize decentralized application performance
 // Improve staking logic for better rewards
+// Fix race condition in staking pool
