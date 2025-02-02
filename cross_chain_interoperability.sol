@@ -6,3 +6,4 @@
 // Add support for multi-signature wallet contracts
 // Enhance privacy features using zk-STARKs
 // Refactor wallet interaction logic
+// Fix issues with token transfer confirmations
